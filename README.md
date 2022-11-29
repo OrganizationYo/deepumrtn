@@ -1,6 +1,4 @@
-👋 Hello Folks,	
-
-	Happy Coding !!!
+**Happy Coding !!!**
 
 
 <!---

@@ -1,8 +1,6 @@
 👋 Hiya!!!! I'm Deepu!  
-💻 Works at @GitHub, supporting our customers  
-🇮🇳 Indian  
-🏏 Team India 💙  
-🎵 Addicted to melodies!!!  
+💻 Works at @GitHub, supporting customers  
+
 
 <!---
 deepumrtn/deepumrtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
